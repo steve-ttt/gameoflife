@@ -3,7 +3,7 @@
 A simple, configurable implementation of John Conway's classic cellular automaton, "The Game of Life," built with Java and JavaFX.
 
 
-![Conway's Game of Life in Action](gol.gif)
+![Conway's Game of Life in Action](https://github.com/steve-ttt/gameoflife/blob/main/gol.png)
 
 ---
 
