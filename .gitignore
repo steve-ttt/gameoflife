@@ -1,0 +1,32 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Compiled class files
+*.class
+
+# Package files
+# These are typically generated in the 'build' directory,
+# but this is a safeguard against them being created elsewhere.
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# IDE configuration files
+# IntelliJ
+.idea/
+*.iml
+# Eclipse
+.project
+.classpath
+.settings/
+# VS Code
+.vscode/
+
+# Java HotSpot VM crash logs
+hs_err_pid*
